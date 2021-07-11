@@ -1,0 +1,6 @@
+{
+  "uuid": "update-counter@albertomosconi",
+  "name": "Update Counter",
+  "description": "Displays the number of available updates",
+  "icon": "download"
+}
